@@ -1,0 +1,1 @@
+export {toJsonPath} from "./to-json-path";
